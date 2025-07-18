@@ -1,3 +1,6 @@
+// supabase new project password: p.xkf49aRaC-Cm%
+// clerk domain link: https://live-barnacle-97.clerk.accounts.dev
+
 import CompanionCard from '@/components/CompanionCard'
 import CompanionsList from '@/components/CompanionsList'
 import CTA from '@/components/CTA'
